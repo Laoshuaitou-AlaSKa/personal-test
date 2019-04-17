@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+feature£º1
+=======
+feature£º2
+>>>>>>> feature/feature2
